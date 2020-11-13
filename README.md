@@ -16,7 +16,7 @@
 
 ## 小程序部署
 
-下载后将miniprogram\project.config.json文件 中"appid"字段修改为自己的 APPID。
+下载 miniprogram.zip 文件，然后将miniprogram\project.config.json文件中"appid"字段修改为自己的 APPID。
 
 ## 开源许可
 
