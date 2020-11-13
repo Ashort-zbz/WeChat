@@ -4,7 +4,7 @@
 
 ## 行为准则
 
-请保证您已经阅读过并同意遵守我们的[行为准则（Code of Conduct）](https://github.com/alibaba/Sentinel/blob/master/CODE_OF_CONDUCT.md).
+请保证您已经阅读过并同意遵守我们的[行为准则（Code of Conduct）](https://github.com/Ashort-zbz/WeChat/blob/main/code-of-conduct.md).
 
 ## 贡献
 
