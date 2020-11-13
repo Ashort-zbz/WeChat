@@ -18,6 +18,10 @@
 
 下载 miniprogram.zip 文件，然后将miniprogram\project.config.json文件中"appid"字段修改为自己的 APPID。
 
+## 注意事项
+
+不同系统手机会出现不兼容问题，可能会导致某个组件无法正常渲染
+
 ## 开源许可
 
 本小程序完全遵循 MIT 开源许可协议，你可以自由使用该软件。
